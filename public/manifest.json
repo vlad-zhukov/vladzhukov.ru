@@ -1,0 +1,9 @@
+{
+  "short_name": "vladzhukov.ru",
+  "name": "vladzhukov.ru",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#333",
+  "background_color": "#ffffff"
+}
